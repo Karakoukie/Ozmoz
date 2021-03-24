@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - screenFade
+  - Wall
+  - LoadingUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post Processing
+  - Water
+  - UI
+  - Player
+  - Scenery
+  - Interactable
+  - Box
+  - BoxBlocker
+  - BoxInteractable
+  - CuriosityCircle
+  - Sadness
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3722930047
+    locked: 0
+  - name: Depthground
+    uniqueID: 2706985141
+    locked: 0
+  - name: Midground
+    uniqueID: 1999598667
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sadness
+    uniqueID: 3081426351
+    locked: 0
+  - name: Foreground
+    uniqueID: 1891614655
+    locked: 0
+  - name: Closeground
+    uniqueID: 180505661
+    locked: 0
+  - name: UI
+    uniqueID: 3156256703
+    locked: 0
+  - name: UI Effects
+    uniqueID: 813610179
+    locked: 0
